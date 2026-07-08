@@ -1,0 +1,4 @@
+opencv-python
+requests
+numpy
+PyQt5>=5.15.0
